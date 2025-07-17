@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.metrics
+xgboost 
+imblearn.over_sampling 
+matplotlib.pyplot
